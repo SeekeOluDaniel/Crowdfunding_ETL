@@ -16,6 +16,6 @@
     This step is done to load the transformed data into Postgres Database. For doing this first we are creating ERD diagrams(crowdfunding_db_ERD.PNG) and generating schema(crowdfunding_db_schema.sql) by using the CSV file data obtained in Step 2.
 
 
-Collaborators : Olu-Daniel, OmoSeeke and Sharma, Neha. [^1]
+Collaborators: [^1]
 
-[^1]: This is the footnote.
+[^1]: Olu-Daniel, OmoSeeke and Sharma, Neha.
